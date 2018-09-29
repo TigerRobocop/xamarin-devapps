@@ -1,0 +1,13 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/bin/Debug/netstandard2.0/CustomComponents.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/bin/Debug/netstandard2.0/CustomComponents.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/bin/Debug/netstandard2.0/CustomComponents.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/CustomComponents.csprojAssemblyReference.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/Contacts.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/CustomComponents.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/CustomComponents.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/CustomComponents.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/CustomComponents.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomComponents/CustomComponents/obj/Debug/netstandard2.0/CustomComponents.pdb

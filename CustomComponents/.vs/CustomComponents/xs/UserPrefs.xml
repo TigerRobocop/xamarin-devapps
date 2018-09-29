@@ -1,17 +1,22 @@
 ﻿<Properties StartupConfiguration="{1E172D6A-98E9-46B3-AA19-39EA549F669F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CustomComponents/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomComponents/Contacts.xaml.cs">
     <Files>
       <File FileName="CustomComponents/MainPage.xaml.cs" Line="1" Column="1" />
       <File FileName="CustomComponents/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="CustomComponents/Contacts.xaml" Line="6" Column="1" />
+      <File FileName="CustomComponents/Contacts.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.CustomComponents.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CustomComponents.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Components.iOS FirstBuild="True" HideGettingStarted="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Components.NuGet FirstBuild="True" HideGettingStarted="True" />
   <MonoDevelop.Ide.ItemProperties.CustomComponents.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Components.Shared FirstBuild="True" HideGettingStarted="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.CustomComponents FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Components.Android FirstBuild="True" HideGettingStarted="True" />
 </Properties>
