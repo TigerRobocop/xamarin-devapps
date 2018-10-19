@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MarkupExtensions" 
+             x:Class="MarkupExtensions.SecondPage"
+             Title="Page 2"
+             BackgroundColor="{x:Static local:Constants.backgroundColor}">
+    <ContentPage.Content>
+        <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to page 1" 
+               HorizontalOptions="Center" 
+               VerticalOptions="{Static local:Constants.centerAlignment}"
+               FontAttributes="{Static local:Constants.fontBold}"
+              />
+        <Button Text="go to page 1" Clicked="Handle_Clicked"/>
+      
+    </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

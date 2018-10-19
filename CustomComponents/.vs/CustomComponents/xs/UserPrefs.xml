@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{1E172D6A-98E9-46B3-AA19-39EA549F669F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CustomComponents/Contacts.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomComponents/MainPage.xaml.cs">
     <Files>
       <File FileName="CustomComponents/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="CustomComponents/MainPage.xaml" Line="8" Column="4" />
-      <File FileName="CustomComponents/Contacts.xaml" Line="8" Column="9" />
+      <File FileName="CustomComponents/MainPage.xaml" Line="10" Column="15" />
+      <File FileName="CustomComponents/Contacts.xaml" Line="13" Column="1" />
       <File FileName="CustomComponents/Contacts.xaml.cs" Line="34" Column="52" />
+      <File FileName="CustomComponents/App.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
