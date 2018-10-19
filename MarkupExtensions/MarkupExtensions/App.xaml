@@ -1,5 +1,12 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Application xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MarkupExtensions.App">
     <Application.Resources>
+        <Color x:FactoryMethod="FromRgb" x:Key="bgColor">
+            <x:Arguments>
+                <x:Double>1</x:Double>
+                <x:Double>0</x:Double>
+                <x:Double>0</x:Double>
+            </x:Arguments>
+        </Color>
     </Application.Resources>
 </Application>

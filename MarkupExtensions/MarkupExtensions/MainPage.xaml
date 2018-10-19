@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:MarkupExtensions" 
              x:Class="MarkupExtensions.MainPage"
              Title="Page 1"
-             BackgroundColor="{x:Static local:Constants.backgroundColor}">
+             BackgroundColor="{StaticResource bgColor}">
     <StackLayout>
         <!-- Place new controls here -->
         <Label Text="Welcome to page 1" 

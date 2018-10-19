@@ -1,11 +1,13 @@
 ﻿<Properties StartupConfiguration="{F5C05053-386D-4093-8CBA-349EAECF24FC}|Default">
   <MonoDevelop.Ide.ItemProperties.MarkupExtensions.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MarkupExtensions/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarkupExtensions/App.xaml">
     <Files>
-      <File FileName="MarkupExtensions/MainPage.xaml.cs" Line="12" Column="41" />
+      <File FileName="MarkupExtensions/MainPage.xaml.cs" Line="21" Column="52" />
       <File FileName="MarkupExtensions/MainPage.xaml" Line="17" Column="19" />
-      <File FileName="MarkupExtensions/SecondPage.xaml" Line="16" Column="60" />
-      <File FileName="MarkupExtensions/SecondPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MarkupExtensions/SecondPage.xaml" Line="16" Column="7" />
+      <File FileName="MarkupExtensions/SecondPage.xaml.cs" Line="15" Column="1" />
+      <File FileName="MarkupExtensions/App.xaml.cs" Line="14" Column="58" />
+      <File FileName="MarkupExtensions/App.xaml" Line="5" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
