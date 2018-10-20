@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{2B0F3F3F-6D79-4898-9839-8CC96ED3EE97}|Default">
+  <MonoDevelop.Ide.ItemProperties.Paralel FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Paralel/MainPage.xaml">
+    <Files>
+      <File FileName="Paralel/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Paralel/MainPage.xaml" Line="8" Column="34" />
+      <File FileName="Paralel.Android/SOInfo.cs" Line="1" Column="1" />
+      <File FileName="Paralel.iOS/SOInfo.cs" Line="11" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Paralel.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Paralel.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

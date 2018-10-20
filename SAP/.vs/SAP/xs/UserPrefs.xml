@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{A3A5F853-741A-4880-AAA7-324838BF9665}|Default">
-  <MonoDevelop.Ide.ItemProperties.SAP.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SAP/MainPage.xaml">
+  <MonoDevelop.Ide.ItemProperties.SAP.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SAP/MainPage.xaml.cs">
     <Files>
-      <File FileName="SAP/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="SAP/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="SAP/MainPage.xaml.cs" Line="36" Column="1" />
+      <File FileName="SAP/MainPage.xaml" Line="12" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
