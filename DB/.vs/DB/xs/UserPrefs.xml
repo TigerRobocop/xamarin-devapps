@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{75FB90B0-D7FE-4936-8C10-19EB4FDA24F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.DB.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DB.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DB.iOS/DBPath.cs">
+    <Files>
+      <File FileName="DB/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="DB/MainPage.xaml" Line="7" Column="15" />
+      <File FileName="DB/Person.cs" Line="9" Column="52" />
+      <File FileName="DB/App.xaml.cs" Line="22" Column="10" />
+      <File FileName="DB/IDBPath.cs" Line="6" Column="26" />
+      <File FileName="DB.Android/DBPath.cs" Line="8" Column="7" />
+      <File FileName="DB.iOS/DBPath.cs" Line="4" Column="31" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.DB FirstBuild="True" />
+</Properties>
