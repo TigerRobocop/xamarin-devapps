@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{76F37AB5-9E0A-43B4-AA33-95816968EEC0}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="BrowserBinding/MainPage.xaml">
     <Files>
-      <File FileName="BrowserBinding/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="BrowserBinding/MainPage.xaml" Line="14" Column="96" />
+      <File FileName="BrowserBinding/MainPage.xaml.cs" Line="33" Column="1" />
+      <File FileName="BrowserBinding/MainPage.xaml" Line="15" Column="15" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
