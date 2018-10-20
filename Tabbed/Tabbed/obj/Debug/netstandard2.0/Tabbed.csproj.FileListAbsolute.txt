@@ -1,0 +1,14 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Tabbed.csprojAssemblyReference.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Page1.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Page2.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Tabbed.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Tabbed.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Tabbed.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Tabbed.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/Tabbed.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/bin/Debug/netstandard2.0/Tabbed.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/bin/Debug/netstandard2.0/Tabbed.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/bin/Debug/netstandard2.0/Tabbed.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Tabbed/Tabbed/obj/Debug/netstandard2.0/XamlC.stamp
