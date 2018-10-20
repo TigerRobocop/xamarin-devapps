@@ -2,7 +2,6 @@
 /Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/bin/Debug/ParalelSAP.Android.pdb
 /Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/bin/Debug/com.trc.liv.ParalelSAP.apk
 /Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/bin/Debug/com.trc.liv.ParalelSAP-Signed.apk
-/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/obj/Debug/ParalelSAP.Android.csprojAssemblyReference.cache
 /Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/obj/Debug/res.flag
 /Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/obj/Debug/App.xaml.g.cs
 /Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/ParalelSAP/ParalelSAP.Android/obj/Debug/MainPage.xaml.g.cs
