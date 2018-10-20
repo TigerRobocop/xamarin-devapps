@@ -13,5 +13,10 @@ namespace PlayNotification
         {
             InitializeComponent();
         }
+
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            DependencyService.Get<IPlay>().PlaySound();
+        }
     }
 }

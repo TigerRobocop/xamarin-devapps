@@ -1,9 +1,11 @@
-﻿<Properties StartupConfiguration="{7C09FF27-CC43-49D4-9F22-AEF22497D313}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="PlayNotification/IPlay.cs">
+﻿<Properties StartupConfiguration="{4B4416B4-EEDD-4BD4-954C-6A84839142BE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PlayNotification.Android/Play.cs">
     <Files>
-      <File FileName="PlayNotification/MainPage.xaml.cs" Line="1" Column="1" />
-      <File FileName="PlayNotification/MainPage.xaml" Line="5" Column="14" />
-      <File FileName="PlayNotification/IPlay.cs" Line="1" Column="1" />
+      <File FileName="PlayNotification/MainPage.xaml.cs" Line="23" Column="1" />
+      <File FileName="PlayNotification/MainPage.xaml" Line="8" Column="87" />
+      <File FileName="PlayNotification/IPlay.cs" Line="2" Column="27" />
+      <File FileName="PlayNotification.Android/Play.cs" Line="21" Column="10" />
+      <File FileName="PlayNotification.iOS/Play.cs" Line="5" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
@@ -11,8 +13,7 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.PlayNotification FirstBuild="True" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.PlayNotification.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.PlayNotification.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.PlayNotification.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.ItemProperties.PlayNotification.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AD977B5F-4AAD-495F-B636-F6C41AA97E36" />
 </Properties>

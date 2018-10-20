@@ -3,5 +3,6 @@ namespace PlayNotification
 {
     public interface IPlay
     {
+        void PlaySound();
     }
 }

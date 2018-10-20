@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/bin/Debug/netstandard2.0/PlayNotification.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/bin/Debug/netstandard2.0/PlayNotification.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/bin/Debug/netstandard2.0/PlayNotification.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/PlayNotification.csprojAssemblyReference.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/PlayNotification.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/PlayNotification.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/PlayNotification.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/PlayNotification.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/PlayNotification/PlayNotification/obj/Debug/netstandard2.0/PlayNotification.pdb
