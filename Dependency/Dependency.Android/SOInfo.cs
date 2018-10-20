@@ -1,9 +1,12 @@
 ﻿using System;
 using Android.OS;
+using Xamarin.Forms;
 
-namespace ParalelSAP
+[assembly: Dependency(typeof(Dependency.Android.SOInfo))]
+
+namespace Dependency.Android
 {
-    public class SOInfo
+    public class SOInfo : ISOInfo
     {
         public string GetInfo(){
             return Build.Manufacturer;

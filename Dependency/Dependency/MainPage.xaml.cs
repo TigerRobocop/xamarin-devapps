@@ -12,6 +12,7 @@ namespace Dependency
         public MainPage()
         {
             InitializeComponent();
+            lblInfo.Text = DependencyService.Get<ISOInfo>().GetInfo();
         }
     }
 }

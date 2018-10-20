@@ -3,5 +3,6 @@ namespace Dependency
 {
     public interface ISOInfo
     {
+        string GetInfo();
     }
 }
