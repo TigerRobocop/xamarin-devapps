@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/bin/Debug/netstandard2.0/BrowserBinding.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/bin/Debug/netstandard2.0/BrowserBinding.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/bin/Debug/netstandard2.0/BrowserBinding.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/BrowserBinding.csprojAssemblyReference.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/BrowserBinding.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/BrowserBinding.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/BrowserBinding.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/BrowserBinding.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/BrowserBinding/BrowserBinding/obj/Debug/netstandard2.0/BrowserBinding.pdb
