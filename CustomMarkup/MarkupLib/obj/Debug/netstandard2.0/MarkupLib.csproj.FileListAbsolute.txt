@@ -1,0 +1,10 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/bin/Debug/netstandard2.0/MarkupLib.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/bin/Debug/netstandard2.0/MarkupLib.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/bin/Debug/netstandard2.0/MarkupLib.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/MarkupLib.csprojAssemblyReference.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/MarkupLib.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/MarkupLib.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/MarkupLib.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/MarkupLib.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/CustomMarkup/MarkupLib/obj/Debug/netstandard2.0/MarkupLib.pdb

@@ -3,11 +3,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MarkupExtensions/App.xaml">
     <Files>
       <File FileName="MarkupExtensions/MainPage.xaml.cs" Line="21" Column="52" />
-      <File FileName="MarkupExtensions/MainPage.xaml" Line="17" Column="19" />
+      <File FileName="MarkupExtensions/MainPage.xaml" Line="9" Column="11" />
       <File FileName="MarkupExtensions/SecondPage.xaml" Line="16" Column="7" />
       <File FileName="MarkupExtensions/SecondPage.xaml.cs" Line="15" Column="1" />
       <File FileName="MarkupExtensions/App.xaml.cs" Line="14" Column="58" />
-      <File FileName="MarkupExtensions/App.xaml" Line="5" Column="15" />
+      <File FileName="MarkupExtensions/App.xaml" Line="4" Column="56" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

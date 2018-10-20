@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{F7FC6A9F-99E8-4E2A-9745-37F93C1C4866}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CustomMarkup/CustomExtension.cs">
+    <Files>
+      <File FileName="CustomMarkup/MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="CustomMarkup/MainPage.xaml" Line="6" Column="58" />
+      <File FileName="CustomMarkup/CustomExtension.cs" Line="9" Column="8" />
+      <File FileName="MarkupLib/ColorRGBExtension.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CustomMarkup.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MarkupLib FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CustomMarkup.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

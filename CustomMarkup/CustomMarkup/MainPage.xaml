@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:CustomMarkup" 
+             xmlns:lib="clr-namespace:MarkupLib;assembly=MarkupLib" 
+             x:Class="CustomMarkup.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"
+               TextColor="{local:Custom R=255, G=255, B=0}"/>
+        
+         <!-- Place new controls here -->
+        <Label Text="from lib!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand"
+               TextColor="{lib:ColorRGB R=0, G=255, B=0}"/>
+    </StackLayout>
+</ContentPage>
