@@ -1,5 +1,24 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MasterDetail.Add">
-    <ContentPage.Content>
-    </ContentPage.Content>
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             x:Class="MasterDetail.Add"
+             Title="Add" BackgroundColor="Red">
+    
+    <ContentPage.Resources>
+        <Style x:Key="lblStyle" TargetType="Label">
+            <Setter Property="FontSize" Value="Large"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="TextColor" Value="Green"/>
+        </Style>
+        
+        <Style TargetType="Label" BasedOn="{StaticResource lblStyle}" x:Key="lblStyle2">
+             <Setter Property="TextColor" Value="Aqua"/>
+        </Style>
+        
+    </ContentPage.Resources>
+    <StackLayout>
+        <Label Text="hello" Style="{StaticResource lblStyle}" />
+        <Label Text="World" Style="{StaticResource lblStyle2}" />
+    </StackLayout>
 </ContentPage>
