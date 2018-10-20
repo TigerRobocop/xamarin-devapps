@@ -1,7 +1,19 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:DB" x:Class="DB.MainPage">
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:local="clr-namespace:DB" 
+             x:Class="DB.MainPage">
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" HorizontalOptions="Center" VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="inputName" Placeholder="Name"/>
+        <Entry x:Name="inputCity" Placeholder="City"/>
+        <Button x:Name="btnInsert" Text="Insert" Clicked="Handle_Clicked"/>
+        
+        <ListView x:Name="listNames">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <TextCell Text="{Binding Name}" Detail="{Binding City}"/>
+                </DataTemplate> 
+            </ListView.ItemTemplate>
+        </ListView>
     </StackLayout>
 </ContentPage>

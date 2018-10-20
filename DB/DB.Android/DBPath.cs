@@ -2,7 +2,7 @@
 using System.IO;
 using Xamarin.Forms;
 
-[assembly: Dependency(typeof(DB.iOS.DBPath))]
+[assembly: Dependency(typeof(DB.Droid.DBPath))]
 namespace DB.Droid
 {
 	public class DBPath: IDBPath

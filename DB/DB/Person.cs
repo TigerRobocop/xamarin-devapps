@@ -6,18 +6,20 @@ namespace DB
     [Table("Person")]
     public class Person
     {
-        [Column("Id")]
+        [Column("Id"), PrimaryKey(), AutoIncrement()]
         public int Id
         {
             get;
             set;
         }
+
         [Column("Name")]
         public string Name
         {
             get;
             set;
         }
+
         [Column("City")]
         public string City
         {
