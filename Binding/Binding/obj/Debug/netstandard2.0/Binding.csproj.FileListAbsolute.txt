@@ -1,0 +1,12 @@
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/bin/Debug/netstandard2.0/Binding.deps.json
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/bin/Debug/netstandard2.0/Binding.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/bin/Debug/netstandard2.0/Binding.pdb
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/Binding.csprojAssemblyReference.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/Binding.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/Binding.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/Binding.AssemblyInfo.cs
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/Binding.dll
+/Users/aluno/Desktop/LIV_DEVAPPS/Xamarin/Binding/Binding/obj/Debug/netstandard2.0/Binding.pdb
