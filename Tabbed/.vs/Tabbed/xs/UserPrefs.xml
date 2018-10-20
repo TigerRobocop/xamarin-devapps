@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{01318614-F8B5-4343-B4D4-B799F1BE45CE}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Tabbed/Page2.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tabbed/MainPage.xaml">
     <Files>
       <File FileName="Tabbed/MainPage.xaml.cs" Line="10" Column="47" />
       <File FileName="Tabbed/MainPage.xaml" Line="8" Column="30" />
       <File FileName="Tabbed/Page1.xaml" Line="4" Column="28" />
-      <File FileName="Tabbed/Page2.xaml" Line="4" Column="15" />
+      <File FileName="Tabbed/Page2.xaml" Line="4" Column="28" />
       <File FileName="Tabbed/Page2.xaml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>

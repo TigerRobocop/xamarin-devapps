@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MasterDetail.Master"
+             Title="Master Page">
+    <StackLayout VerticalOptions="Center" HorizontalOptions="Center">
+        <Label Text="Master page Menu"></Label>  
+                    <Button Text="Add Employee" StyleId="add" x:Name="btnAdd" BackgroundColor="Yellow"></Button>  
+                    <Button Text="List Employee" StyleId="list" x:Name="btnList" BackgroundColor="Yellow"></Button>  
+                    <Button Text="About Us" StyleId="about" x:Name="btnAbout" BackgroundColor="Yellow"></Button>  
+                    <Button Text="Contact" StyleId="contact" x:Name="btnContact" BackgroundColor="Yellow"></Button>  
+    </StackLayout>
+    
+</ContentPage>
